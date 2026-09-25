@@ -1,0 +1,11 @@
+[Desktop Entry]
+Type=Application
+X-Nemo-Application-Type=silica-qt5
+Icon=harbour-speedtest
+Exec=harbour-speedtest
+Name=Speedtest
+
+[X-Sailjail]
+OrganizationName=net.mrcyjanek
+ApplicationName=speedtest
+Permissions=Internet

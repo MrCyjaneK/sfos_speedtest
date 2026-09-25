@@ -1,0 +1,7 @@
+*.list
+*.o
+speedtest
+moc_*
+*.rpm
+harbour-speedtest
+Makefile
